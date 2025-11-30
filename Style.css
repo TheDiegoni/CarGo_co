@@ -1,36 +1,21 @@
-@font-face{
-	font-family: Title;
-	src: url(Font/);
-}
-
-@font-face{
-	font-family: Main;
-	src: url(Font/);
-
-}
-
 body{
  background-color: #eeeeee;
  font-size: 20px;
- font-family: Main;
  color: #eeeeee;
 }
 
 h1{
  font-size: 80px;
- font-family: Title;
  color: #222222;
 }
 
 h2{
  font-size: 50px;
- font-family: Main;
  color: #222222;
 }
 
 p{
  font-size: 20px;
- font-family: Main;
  color: #222222;
 }
 
@@ -49,6 +34,7 @@ a:link{
 a:visited{
  color: #ffcccc;
 }
+
 
 
 
