@@ -1,0 +1,62 @@
+@font-face{
+	font-family: Show;
+	src: url(Font/Showtime-R9Ke.ttf);
+}
+
+@font-face{
+	font-family: Hill;
+	src: url(Font/Holywood-gw76.ttf);
+
+}
+
+body{
+ background-color: #111111;
+ font-size: 20px;
+ color: #eeeeee;
+}
+
+h1{
+ font-size: 80px;
+ font-family: Show;
+ color: #ffff00;
+}
+
+h2{
+ font-size: 50px;
+ font-family: Hill;
+ color: #ffff00;
+}
+
+h3{
+ font-size: 50px;
+ font-family: Show;
+ color: #ff0000;
+}
+
+p{
+ font-size: 20px;
+ color: #eeeeee;
+}
+
+td{
+ text-align: center;
+}
+
+img{
+ padding-top: 25px;
+}
+
+a:link{
+ color: #ffff00;
+}
+
+a:visited{
+ color: #ffcccc;
+}
+
+
+
+
+
+
+
