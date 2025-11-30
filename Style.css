@@ -1,6 +1,6 @@
 body{
  background-color: #eeeeee;
- font-size: 20px;
+ font-size: 10px;
  color: #eeeeee;
 }
 
@@ -10,21 +10,17 @@ h1{
 }
 
 h2{
- font-size: 30px;
+ font-size: 20px;
  color: #222222;
 }
 
 p{
- font-size: 20px;
+ font-size: 10px;
  color: #222222;
 }
 
 td{
  text-align: center;
-}
-
-img{
- padding-top: 0px;
 }
 
 a:link{
@@ -34,17 +30,3 @@ a:link{
 a:visited{
  color: #aaaaaa;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
