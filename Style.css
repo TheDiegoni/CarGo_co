@@ -1,41 +1,37 @@
 @font-face{
-	font-family: Show;
-	src: url(Font/Showtime-R9Ke.ttf);
+	font-family: Title;
+	src: url(Font/);
 }
 
 @font-face{
-	font-family: Hill;
-	src: url(Font/Holywood-gw76.ttf);
+	font-family: Main;
+	src: url(Font/);
 
 }
 
 body{
- background-color: #111111;
+ background-color: #eeeeee;
  font-size: 20px;
+ font-family: Main;
  color: #eeeeee;
 }
 
 h1{
  font-size: 80px;
- font-family: Show;
- color: #ffff00;
+ font-family: Title;
+ color: #222222;
 }
 
 h2{
  font-size: 50px;
- font-family: Hill;
- color: #ffff00;
-}
-
-h3{
- font-size: 50px;
- font-family: Show;
- color: #ff0000;
+ font-family: Main;
+ color: #222222;
 }
 
 p{
  font-size: 20px;
- color: #eeeeee;
+ font-family: Main;
+ color: #222222;
 }
 
 td{
@@ -53,6 +49,7 @@ a:link{
 a:visited{
  color: #ffcccc;
 }
+
 
 
 
