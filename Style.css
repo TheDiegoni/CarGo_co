@@ -19,6 +19,10 @@ p{
  color: #222222;
 }
 
+th{
+ color: #222222;
+}
+
 td{
  text-align: center;
 }
@@ -30,3 +34,4 @@ a:link{
 a:visited{
  color: #aaaaaa;
 }
+
